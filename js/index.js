@@ -22,6 +22,8 @@ var team = [];
 var alliansPartier = ["l", "kd", "c", "m"];
 var rgPartier = ["vp", "mp", "mp", "s"];
 
+//DET HÄR HAR JAG GJORT HAHA
+
 /*var mainTheme = new Audio('bensound-ukulele.mp3');
 mainTheme.play();
 var click = new Audio('click.wav');
