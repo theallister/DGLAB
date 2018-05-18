@@ -1281,3 +1281,5 @@ var talentTree =
 		}
 	}
 }
+
+//DETTA ÄR EN KOMMNETAR SOM SKA TAS BORT
