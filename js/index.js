@@ -22,7 +22,6 @@ var team = [];
 var alliansPartier = ["l", "kd", "c", "m"];
 var rgPartier = ["vp", "mp", "mp", "s"];
 
-//DET HÄR HAR JAG GJORT HAHA
 
 /*var mainTheme = new Audio('bensound-ukulele.mp3');
 mainTheme.play();
@@ -1283,5 +1282,3 @@ var talentTree =
 		}
 	}
 }
-
-//DETTA ÄR EN KOMMNETAR SOM SKA TAS BORT
